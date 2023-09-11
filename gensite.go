@@ -39,6 +39,12 @@ func main() {
     <p>Howto is here: <a href="https://tanguay-eu.vercel.app/forays/285" target="_blank">howto</a></p>
     <p>Here is the: <a href="https://github.com/edwardtanguay/et034-golang-site/blob/dev/gensite.go" target="_blank">repo</a></p>
     <hr/>
+    <h2>Todos</h2>
+    <ul>
+        <li>on all sites (Haskell, Rust, Go) get menu via API and display dynamically</li>
+    </ul>
+    <hr/>
+    <h2>Learn</h2>
     <p>BOOK: <a href="https://gobyexample.com">Go By Example</a></p>
 <pre>
 - values
